@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND_ANALOG Pin=U8-12
+Removed Pin From Net: NetName=GND_ANALOG Pin=U8-13
+Removed Pin From Net: NetName=GND_ANALOG Pin=U8-14
+Removed Pin From Net: NetName=GND_ANALOG Pin=U8-15
+Added Pin To Net: NetName=GND Pin=U8-12
+Added Pin To Net: NetName=GND Pin=U8-13
+Added Pin To Net: NetName=GND Pin=U8-14
+Added Pin To Net: NetName=GND Pin=U8-15
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component R5 Resistor_0603

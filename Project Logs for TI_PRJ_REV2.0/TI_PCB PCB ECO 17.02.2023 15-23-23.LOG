@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND_ANALOG Pin=C7-1
+Removed Pin From Net: NetName=GND_ANALOG Pin=C8-1
+Removed Pin From Net: NetName=GND_ANALOG Pin=C20-1
+Removed Pin From Net: NetName=GND_ANALOG Pin=C21-1
+Removed Pin From Net: NetName=GND_ANALOG Pin=C22-1
+Removed Pin From Net: NetName=GND_ANALOG Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component R? Resistor_0603
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component R? Resistor_0603
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component U? MCP6001U
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component U? MCP6001U
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component U? MCP6001U

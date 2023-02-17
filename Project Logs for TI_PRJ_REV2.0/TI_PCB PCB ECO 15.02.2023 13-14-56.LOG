@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=TIM3_CH1 Pin=C12-1
+Removed Pin From Net: NetName=NetR37_1 Pin=R44-2
+Removed Pin From Net: NetName=TIM3_CH1 Pin=R49-2
+Removed Pin From Net: NetName=TIM3_CH1 Pin=U7-1
+Removed Pin From Net: NetName=N Pin=U7-2
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=U7-4
+Removed Pin From Net: NetName=NetR35_1 Pin=U7-7
+Removed Pin From Net: NetName=NetR36_1 Pin=U7-8
+Removed Pin From Net: NetName=GND_ANALOG Pin=U7-11
+Removed Pin From Net: NetName=NetR37_1 Pin=U7-14
+Change Component Footprint: Designator=U7 Old Footprint=SOIC-14 New Footprint=SOT-23-5
+Change Component Comment : Designator=U7 Old Comment=MCP6004 New Comment=MCP6001U
+Change component parameters: Designator = "U7" ("U7"); Footprint = "SOIC-14"; UniqueID = "\GRMYQVKJ\VQTYAAZW" ("\GRMYQVKJ\VQTYAAZW")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/ProductDetail/Microchip-Technology-Atmel/MCP6004-I-SL?qs=n%2FfJlMG9rCZ2%2F%2FCryvZ52w%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Microchip-Technology-Atmel/MCP6001UT-I-OT?qs=Sez7gRs8XSU2iw24kVuIOw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Operational Amplifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U10(SOT-23-5)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/ProductDetail/Microchip-Technology-Atmel/MCP6004-I-SL?qs=n%2FfJlMG9rCZ2%2F%2FCryvZ52w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Microchip-Technology-Atmel/MCP6001UT-I-OT?qs=Sez7gRs8XSU2iw24kVuIOw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Operational Amplifiers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOT-23-5)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/ProductDetail/Microchip-Technology-Atmel/MCP6004-I-SL?qs=n%2FfJlMG9rCZ2%2F%2FCryvZ52w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Microchip-Technology-Atmel/MCP6001UT-I-OT?qs=Sez7gRs8XSU2iw24kVuIOw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Operational Amplifiers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U12(SOT-23-5)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/ProductDetail/Microchip-Technology-Atmel/MCP6004-I-SL?qs=n%2FfJlMG9rCZ2%2F%2FCryvZ52w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Microchip-Technology-Atmel/MCP6001UT-I-OT?qs=Sez7gRs8XSU2iw24kVuIOw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Operational Amplifiers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TIM3_CH1 Pin=C12-2
+Added Pin To Net: NetName=NetR37_1 Pin=R44-1
+Added Pin To Net: NetName=TIM3_CH1 Pin=R49-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=NetR37_1 Pin=U7-4
+Added Pin To Net: NetName=+3V3_ANALOG Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=NetR36_1 Pin=U10-4
+Added Pin To Net: NetName=+3V3_ANALOG Pin=U10-5
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=NetR35_1 Pin=U11-4
+Added Pin To Net: NetName=+3V3_ANALOG Pin=U11-5
+Added Pin To Net: NetName=GND Pin=U12-2
+Added Pin To Net: NetName=N Pin=U12-3
+Added Pin To Net: NetName=TIM3_CH1 Pin=U12-4
+Added Pin To Net: NetName=+3V3_ANALOG Pin=U12-5
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=R49-2
+Added Pin To Net: NetName=NetC12_1 Pin=R50-1
+Added Pin To Net: NetName=NetC12_1 Pin=U12-1
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=U7-1
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=R44-2
+Added Pin To Net: NetName=NetR25_2 Pin=U7-3
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=R48-2
+Added Pin To Net: NetName=NetR40_2 Pin=U11-3
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=NetR41_2 Pin=R41-2
+Added Pin To Net: NetName=NetR41_2 Pin=U10-1
+Added Net: Name=NetR41_2
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=NetR43_2 Pin=R45-2
+Added Pin To Net: NetName=NetR43_2 Pin=U10-3
+Added Net: Name=NetR43_2
+Added Pin To Net: NetName=NetR46_2 Pin=R46-2
+Added Pin To Net: NetName=NetR46_2 Pin=U11-1
+Added Net: Name=NetR46_2
+Added Member To Class: ClassName=U_TI_ADC_CURRENT Member=Component U10 MCP6001U
+Added Member To Class: ClassName=U_TI_ADC_CURRENT Member=Component U11 MCP6001U
+Added Member To Class: ClassName=U_TI_ADC_CURRENT Member=Component U12 MCP6001U

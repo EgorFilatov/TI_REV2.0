@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetR5_1 Pin=R32-1
+Removed Pin From Net: NetName=NetR1_1 Pin=R34-1
+Removed Pin From Net: NetName=GND Pin=R56-1
+Removed Pin From Net: NetName=GND Pin=R57-1
+Removed Member From Class: ClassName=U_TI_MCU Member=R56
+Removed Member From Class: ClassName=U_TI_MCU Member=R57
+Added Pin To Net: NetName=NetR1_1 Pin=R32-1
+Added Pin To Net: NetName=NetR5_1 Pin=R34-1
+Added Pin To Net: NetName=NetU2_15 Pin=U2-15
+Added Pin To Net: NetName=NetU2_15 Pin=U8-11
+Added Net: Name=NetU2_15
+Added Pin To Net: NetName=NetU2_16 Pin=U2-16
+Added Pin To Net: NetName=NetU2_16 Pin=U8-10
+Added Net: Name=NetU2_16

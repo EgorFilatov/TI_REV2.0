@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+5V Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Member From Class: ClassName=U_TI_POW Member=U4
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component R? Resistor_0603
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component R? Resistor_0603
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component U? MCP6001U
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component U? MCP6001U
+Added Member To Class: ClassName=U_TI_ADC_VOLTAGE Member=Component U? MCP6001U

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND_ANALOG Pin=VD4-1
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=VD4-2
+Removed Pin From Net: NetName=CURRENT_IN_D+ Pin=VD4-3
+Removed Pin From Net: NetName=GND_ANALOG Pin=VD6-1
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=VD6-2
+Removed Pin From Net: NetName=CURRENT_IN_B+ Pin=VD6-3
+Removed Member From Class: ClassName=U_TI_ADC_CURRENT Member=VD6

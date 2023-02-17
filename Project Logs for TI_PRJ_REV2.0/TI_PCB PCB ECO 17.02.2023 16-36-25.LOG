@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=ADC_IN1 Pin=C24-2
+Added Pin To Net: NetName=ADC_IN1 Pin=R32-2
+Added Pin To Net: NetName=ADC_IN1 Pin=U2-15
+Added Net: Name=ADC_IN1
+Added Pin To Net: NetName=ADC_IN2 Pin=C25-2
+Added Pin To Net: NetName=ADC_IN2 Pin=R33-2
+Added Pin To Net: NetName=ADC_IN2 Pin=U2-16
+Added Net: Name=ADC_IN2
+Added Pin To Net: NetName=NetU2_17 Pin=U2-17
+Added Pin To Net: NetName=NetU2_17 Pin=U8-10
+Added Net: Name=NetU2_17
+Added Pin To Net: NetName=NetU2_18 Pin=U2-18
+Added Pin To Net: NetName=NetU2_18 Pin=U8-11
+Added Net: Name=NetU2_18
