@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=U13-2
+Removed Pin From Net: NetName=N Pin=U13-3
+Removed Pin From Net: NetName=N Pin=U13-4
+Removed Pin From Net: NetName=+3V3_ANALOG Pin=U13-5
+Removed Pin From Net: NetName=N Pin=XP3-1
+Removed Member From Class: ClassName=U_TI_ADC_VOLTAGE Member=U13
+Added Pin To Net: NetName=N Pin=R29-1
+Added Pin To Net: NetName=N Pin=R31-1
+Added Pin To Net: NetName=N Pin=U6-2
+Change Net Name : Old Net Name=N New Net Name=+1V65
+Added Pin To Net: NetName=N Pin=XP3-1
+Added Net: Name=N
