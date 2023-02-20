@@ -167,107 +167,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YPYPHLXX
 
-[Document8]
-DocumentPath=..\..\REV 0.1\TI_ADV\TI_PRJ.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=..\..\REV 0.1\TI_ADV\Project Outputs for TI_PRJ\TI_PCB.TXT
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -550,7 +449,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS P3045dn KX
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
